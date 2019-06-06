@@ -1,10 +1,6 @@
 # HackerRank
-Some solutions of mine from HackerRank problems.
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  Some solutions of mine from HackerRank problems.
+  If you are interested in helping or have a solution in a different language feel free to make a pull request.
+
 </p>
